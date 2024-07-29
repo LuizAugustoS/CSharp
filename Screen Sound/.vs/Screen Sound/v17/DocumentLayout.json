@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alura C#\\Screen Sound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1680B72B-EB0F-49B9-AC1B-AE54D075BA66}|Screen Sound\\Screen Sound.csproj|c:\\alura c#\\screen sound\\screen sound\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1680B72B-EB0F-49B9-AC1B-AE54D075BA66}|Screen Sound\\Screen Sound.csproj|solutionrelative:screen sound\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1680B72B-EB0F-49B9-AC1B-AE54D075BA66}|Screen Sound\\Screen Sound.csproj|c:\\alura c#\\screen sound\\screen sound\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1680B72B-EB0F-49B9-AC1B-AE54D075BA66}|Screen Sound\\Screen Sound.csproj|solutionrelative:screen sound\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1680B72B-EB0F-49B9-AC1B-AE54D075BA66}|Screen Sound\\Screen Sound.csproj|c:\\alura c#\\screen sound\\screen sound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1680B72B-EB0F-49B9-AC1B-AE54D075BA66}|Screen Sound\\Screen Sound.csproj|solutionrelative:screen sound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1680B72B-EB0F-49B9-AC1B-AE54D075BA66}|Screen Sound\\Screen Sound.csproj|c:\\alura c#\\screen sound\\screen sound\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1680B72B-EB0F-49B9-AC1B-AE54D075BA66}|Screen Sound\\Screen Sound.csproj|solutionrelative:screen sound\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1680B72B-EB0F-49B9-AC1B-AE54D075BA66}|Screen Sound\\Screen Sound.csproj|c:\\alura c#\\screen sound\\screen sound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1680B72B-EB0F-49B9-AC1B-AE54D075BA66}|Screen Sound\\Screen Sound.csproj|solutionrelative:screen sound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1680B72B-EB0F-49B9-AC1B-AE54D075BA66}|Screen Sound\\Screen Sound.csproj|c:\\alura c#\\screen sound\\screen sound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1680B72B-EB0F-49B9-AC1B-AE54D075BA66}|Screen Sound\\Screen Sound.csproj|solutionrelative:screen sound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1680B72B-EB0F-49B9-AC1B-AE54D075BA66}|Screen Sound\\Screen Sound.csproj|c:\\alura c#\\screen sound\\screen sound\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1680B72B-EB0F-49B9-AC1B-AE54D075BA66}|Screen Sound\\Screen Sound.csproj|solutionrelative:screen sound\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Episodio.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Screen Sound\\Screen Sound\\Episodio.cs",
+              "RelativeDocumentMoniker": "Screen Sound\\Episodio.cs",
+              "ToolTip": "C:\\Alura C#\\Screen Sound\\Screen Sound\\Episodio.cs",
+              "RelativeToolTip": "Screen Sound\\Episodio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:11:40.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Screen Sound\\Screen Sound\\Podcast.cs",
+              "RelativeDocumentMoniker": "Screen Sound\\Podcast.cs",
+              "ToolTip": "C:\\Alura C#\\Screen Sound\\Screen Sound\\Podcast.cs",
+              "RelativeToolTip": "Screen Sound\\Podcast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:10:58.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Banda.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Screen Sound\\Screen Sound\\Banda.cs",
+              "RelativeDocumentMoniker": "Screen Sound\\Banda.cs",
+              "ToolTip": "C:\\Alura C#\\Screen Sound\\Screen Sound\\Banda.cs",
+              "RelativeToolTip": "Screen Sound\\Banda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:59:01.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Screen Sound\\Screen Sound\\Album.cs",
+              "RelativeDocumentMoniker": "Screen Sound\\Album.cs",
+              "ToolTip": "C:\\Alura C#\\Screen Sound\\Screen Sound\\Album.cs",
+              "RelativeToolTip": "Screen Sound\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:14:31.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Screen Sound\\Screen Sound\\Musica.cs",
+              "RelativeDocumentMoniker": "Screen Sound\\Musica.cs",
+              "ToolTip": "C:\\Alura C#\\Screen Sound\\Screen Sound\\Musica.cs",
+              "RelativeToolTip": "Screen Sound\\Musica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T14:49:09.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Screen Sound\\Screen Sound\\Genero.cs",
+              "RelativeDocumentMoniker": "Screen Sound\\Genero.cs",
+              "ToolTip": "C:\\Alura C#\\Screen Sound\\Screen Sound\\Genero.cs",
+              "RelativeToolTip": "Screen Sound\\Genero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:56:09.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Screen Sound\\Screen Sound\\Program.cs",
+              "RelativeDocumentMoniker": "Screen Sound\\Program.cs",
+              "ToolTip": "C:\\Alura C#\\Screen Sound\\Screen Sound\\Program.cs",
+              "RelativeToolTip": "Screen Sound\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:18:36.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

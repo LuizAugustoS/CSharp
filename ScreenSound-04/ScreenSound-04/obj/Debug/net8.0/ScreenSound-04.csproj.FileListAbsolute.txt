@@ -1,0 +1,17 @@
+C:\Alura C#\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.exe
+C:\Alura C#\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.deps.json
+C:\Alura C#\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.runtimeconfig.json
+C:\Alura C#\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.dll
+C:\Alura C#\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\ScreenSound-04.pdb
+C:\Alura C#\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura C#\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.AssemblyInfoInputs.cache
+C:\Alura C#\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.AssemblyInfo.cs
+C:\Alura C#\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.csproj.CoreCompileInputs.cache
+C:\Alura C#\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.dll
+C:\Alura C#\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\refint\ScreenSound-04.dll
+C:\Alura C#\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.pdb
+C:\Alura C#\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.genruntimeconfig.cache
+C:\Alura C#\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ref\ScreenSound-04.dll
+C:\Alura C#\ScreenSound-04\ScreenSound-04\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Alura C#\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSound-04.csproj.AssemblyReference.cache
+C:\Alura C#\ScreenSound-04\ScreenSound-04\obj\Debug\net8.0\ScreenSo.2424BD11.Up2Date

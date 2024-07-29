@@ -1,0 +1,14 @@
+C:\Alura C#\ExportarJson\ExportarJson\bin\Debug\net8.0\ExportarJson.exe
+C:\Alura C#\ExportarJson\ExportarJson\bin\Debug\net8.0\ExportarJson.deps.json
+C:\Alura C#\ExportarJson\ExportarJson\bin\Debug\net8.0\ExportarJson.runtimeconfig.json
+C:\Alura C#\ExportarJson\ExportarJson\bin\Debug\net8.0\ExportarJson.dll
+C:\Alura C#\ExportarJson\ExportarJson\bin\Debug\net8.0\ExportarJson.pdb
+C:\Alura C#\ExportarJson\ExportarJson\obj\Debug\net8.0\ExportarJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura C#\ExportarJson\ExportarJson\obj\Debug\net8.0\ExportarJson.AssemblyInfoInputs.cache
+C:\Alura C#\ExportarJson\ExportarJson\obj\Debug\net8.0\ExportarJson.AssemblyInfo.cs
+C:\Alura C#\ExportarJson\ExportarJson\obj\Debug\net8.0\ExportarJson.csproj.CoreCompileInputs.cache
+C:\Alura C#\ExportarJson\ExportarJson\obj\Debug\net8.0\ExportarJson.dll
+C:\Alura C#\ExportarJson\ExportarJson\obj\Debug\net8.0\refint\ExportarJson.dll
+C:\Alura C#\ExportarJson\ExportarJson\obj\Debug\net8.0\ExportarJson.pdb
+C:\Alura C#\ExportarJson\ExportarJson\obj\Debug\net8.0\ExportarJson.genruntimeconfig.cache
+C:\Alura C#\ExportarJson\ExportarJson\obj\Debug\net8.0\ref\ExportarJson.dll
